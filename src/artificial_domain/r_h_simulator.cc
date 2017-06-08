@@ -5,6 +5,7 @@
 #include "../state.h"
 #include "../axioms.h"
 #include "../heuristic.h"
+#include <climits>
 #include <sstream>
 #include <iostream>
 using namespace std;

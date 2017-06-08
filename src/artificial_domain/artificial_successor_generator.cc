@@ -3,6 +3,7 @@
 #include "artificial_operator.h"
 #include "../successor_generator.h"
 #include "../rng.h"
+#include <algorithm>
 #include <iostream>
 
 using namespace std;
